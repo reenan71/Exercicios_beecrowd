@@ -1,0 +1,15 @@
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1065\bin\Debug\net9.0\URI_1065.exe
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1065\bin\Debug\net9.0\URI_1065.deps.json
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1065\bin\Debug\net9.0\URI_1065.runtimeconfig.json
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1065\bin\Debug\net9.0\URI_1065.dll
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1065\bin\Debug\net9.0\URI_1065.pdb
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1065\obj\Debug\net9.0\URI_1065.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1065\obj\Debug\net9.0\URI_1065.AssemblyInfoInputs.cache
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1065\obj\Debug\net9.0\URI_1065.AssemblyInfo.cs
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1065\obj\Debug\net9.0\URI_1065.csproj.CoreCompileInputs.cache
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1065\obj\Debug\net9.0\URI_1065.sourcelink.json
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1065\obj\Debug\net9.0\URI_1065.dll
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1065\obj\Debug\net9.0\refint\URI_1065.dll
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1065\obj\Debug\net9.0\URI_1065.pdb
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1065\obj\Debug\net9.0\URI_1065.genruntimeconfig.cache
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1065\obj\Debug\net9.0\ref\URI_1065.dll
