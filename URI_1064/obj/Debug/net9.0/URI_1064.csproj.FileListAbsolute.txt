@@ -1,0 +1,14 @@
+C:\Users\Cliente\Exercicios Beecrowd\URI_1064\bin\Debug\net9.0\URI_1064.exe
+C:\Users\Cliente\Exercicios Beecrowd\URI_1064\bin\Debug\net9.0\URI_1064.deps.json
+C:\Users\Cliente\Exercicios Beecrowd\URI_1064\bin\Debug\net9.0\URI_1064.runtimeconfig.json
+C:\Users\Cliente\Exercicios Beecrowd\URI_1064\bin\Debug\net9.0\URI_1064.dll
+C:\Users\Cliente\Exercicios Beecrowd\URI_1064\bin\Debug\net9.0\URI_1064.pdb
+C:\Users\Cliente\Exercicios Beecrowd\URI_1064\obj\Debug\net9.0\URI_1064.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Exercicios Beecrowd\URI_1064\obj\Debug\net9.0\URI_1064.AssemblyInfoInputs.cache
+C:\Users\Cliente\Exercicios Beecrowd\URI_1064\obj\Debug\net9.0\URI_1064.AssemblyInfo.cs
+C:\Users\Cliente\Exercicios Beecrowd\URI_1064\obj\Debug\net9.0\URI_1064.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Exercicios Beecrowd\URI_1064\obj\Debug\net9.0\URI_1064.dll
+C:\Users\Cliente\Exercicios Beecrowd\URI_1064\obj\Debug\net9.0\refint\URI_1064.dll
+C:\Users\Cliente\Exercicios Beecrowd\URI_1064\obj\Debug\net9.0\URI_1064.pdb
+C:\Users\Cliente\Exercicios Beecrowd\URI_1064\obj\Debug\net9.0\URI_1064.genruntimeconfig.cache
+C:\Users\Cliente\Exercicios Beecrowd\URI_1064\obj\Debug\net9.0\ref\URI_1064.dll
