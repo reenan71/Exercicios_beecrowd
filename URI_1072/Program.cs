@@ -24,6 +24,7 @@ class URI {
         }
         Console.WriteLine(inCount + " in");
         Console.WriteLine(outCount + " out");
+        
 
     }
 
