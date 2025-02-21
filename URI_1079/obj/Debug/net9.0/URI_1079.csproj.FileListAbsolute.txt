@@ -1,0 +1,15 @@
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1079\obj\Debug\net9.0\URI_1079.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1079\obj\Debug\net9.0\URI_1079.AssemblyInfoInputs.cache
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1079\obj\Debug\net9.0\URI_1079.AssemblyInfo.cs
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1079\obj\Debug\net9.0\URI_1079.csproj.CoreCompileInputs.cache
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1079\obj\Debug\net9.0\URI_1079.sourcelink.json
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1079\bin\Debug\net9.0\URI_1079.exe
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1079\bin\Debug\net9.0\URI_1079.deps.json
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1079\bin\Debug\net9.0\URI_1079.runtimeconfig.json
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1079\bin\Debug\net9.0\URI_1079.dll
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1079\bin\Debug\net9.0\URI_1079.pdb
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1079\obj\Debug\net9.0\URI_1079.dll
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1079\obj\Debug\net9.0\refint\URI_1079.dll
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1079\obj\Debug\net9.0\URI_1079.pdb
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1079\obj\Debug\net9.0\URI_1079.genruntimeconfig.cache
+C:\Users\robson.rsilva\Exercicios_beecrowd\URI_1079\obj\Debug\net9.0\ref\URI_1079.dll
