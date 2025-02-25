@@ -5,6 +5,7 @@ class URI
 {
     static void Main(string[] args)
     {
+        
         double soma = 0;
         int notasValidas = 0;
 
