@@ -1,0 +1,15 @@
+C:\Users\Cliente\Exercicios_beecrowd\URI_1165\bin\Debug\net9.0\URI_1165.exe
+C:\Users\Cliente\Exercicios_beecrowd\URI_1165\bin\Debug\net9.0\URI_1165.deps.json
+C:\Users\Cliente\Exercicios_beecrowd\URI_1165\bin\Debug\net9.0\URI_1165.runtimeconfig.json
+C:\Users\Cliente\Exercicios_beecrowd\URI_1165\bin\Debug\net9.0\URI_1165.dll
+C:\Users\Cliente\Exercicios_beecrowd\URI_1165\bin\Debug\net9.0\URI_1165.pdb
+C:\Users\Cliente\Exercicios_beecrowd\URI_1165\obj\Debug\net9.0\URI_1165.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Exercicios_beecrowd\URI_1165\obj\Debug\net9.0\URI_1165.AssemblyInfoInputs.cache
+C:\Users\Cliente\Exercicios_beecrowd\URI_1165\obj\Debug\net9.0\URI_1165.AssemblyInfo.cs
+C:\Users\Cliente\Exercicios_beecrowd\URI_1165\obj\Debug\net9.0\URI_1165.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Exercicios_beecrowd\URI_1165\obj\Debug\net9.0\URI_1165.sourcelink.json
+C:\Users\Cliente\Exercicios_beecrowd\URI_1165\obj\Debug\net9.0\URI_1165.dll
+C:\Users\Cliente\Exercicios_beecrowd\URI_1165\obj\Debug\net9.0\refint\URI_1165.dll
+C:\Users\Cliente\Exercicios_beecrowd\URI_1165\obj\Debug\net9.0\URI_1165.pdb
+C:\Users\Cliente\Exercicios_beecrowd\URI_1165\obj\Debug\net9.0\URI_1165.genruntimeconfig.cache
+C:\Users\Cliente\Exercicios_beecrowd\URI_1165\obj\Debug\net9.0\ref\URI_1165.dll
